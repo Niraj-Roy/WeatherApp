@@ -1,3 +1,6 @@
+<img src="./dc5qm7t-e1d46892-f266-43f7-8ef5-a902aceb0fe3.gif">
+
+
 # 👉 [WeatherApp](https://mausam-batao.netlify.app/) 👈
 
 #  PREVIEW
