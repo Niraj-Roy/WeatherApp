@@ -29,7 +29,7 @@ window.addEventListener("load", () => {
 
       // API ID 
 
-      const api = "6d055e39ee237af35ca066f35474e9df"; 
+      const api = "d6307dbf9163c7ce9e872521fd7b6b7b"; 
 
   
 
@@ -38,7 +38,7 @@ window.addEventListener("load", () => {
       const base = 
 
 `http://api.openweathermap.org/data/2.5/weather?lat=${lat}&` + 
-`lon=${lon}&appid=6d055e39ee237af35ca066f35474e9df`; 
+`lon=${lon}&appid=d6307dbf9163c7ce9e872521fd7b6b7b`; 
 
   
 
