@@ -37,7 +37,7 @@ window.addEventListener("load", () => {
 
       const base = 
 
-`api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid=d6307dbf9163c7ce9e872521fd7b6b7b`; 
+`api.openweathermap.org/data/2.5/weather?lat=25.794161&lon=84.7415135&appid=d6307dbf9163c7ce9e872521fd7b6b7b`; 
 
   
 
