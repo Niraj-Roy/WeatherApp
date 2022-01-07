@@ -1,4 +1,4 @@
-
+// Declaring the variables 
 let lon; 
 let lat; 
 
@@ -27,21 +27,22 @@ window.addEventListener("load", () => {
 
   
 
-      
+      // API ID 
 
-      const api = "d6307dbf9163c7ce9e872521fd7b6b7b"; 
+      const api = "6d055e39ee237af35ca066f35474e9df"; 
 
   
 
-      
+      // API URL 
 
       const base = 
 
 `http://api.openweathermap.org/data/2.5/weather?lat=${lat}&` + 
-`lon=${lon}&appid=d6307dbf9163c7ce9e872521fd7b6b7b`; 
+`lon=${lon}&appid=6d055e39ee237af35ca066f35474e9df`; 
 
   
 
+      // Calling the API 
 
       fetch(base) 
 
@@ -74,4 +75,4 @@ window.addEventListener("load", () => {
     }); 
 
   } 
-});
+}); 
