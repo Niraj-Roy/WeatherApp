@@ -12,7 +12,7 @@ Q. How to Make your Own WeatherApp ? </h2>
 
 `STEP 3` - Replace my name with urs<br>
 
-`STEP 4` - Now you need an API key to do the weather forecasting... `visit` https://openweathermap.org/ and sign up(u can also choose free plan there)<br>
+`STEP 4` - Now you need an API key to do the weather forecasting...<br> `visit` https://openweathermap.org/ and sign up (u can also choose free plan there)<br>
 
 `STEP 5` - Sign in there and click on API
 
