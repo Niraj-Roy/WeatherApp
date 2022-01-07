@@ -37,7 +37,7 @@ window.addEventListener("load", () => {
 
       const base = 
 
-`api.openweathermap.org/data/2.5/weather?q={chapra},{10},{+91}&appid={d6307dbf9163c7ce9e872521fd7b6b7b}`; 
+`http://api.openweathermap.org/data/2.5/weather?q=chapra,10,+91&appid=d6307dbf9163c7ce9e872521fd7b6b7b`; 
 
   
 
