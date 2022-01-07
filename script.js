@@ -1,4 +1,4 @@
-// Declaring the variables 
+
 let lon; 
 let lat; 
 
@@ -27,13 +27,13 @@ window.addEventListener("load", () => {
 
   
 
-      // API ID 
+     
 
       const api = "d6307dbf9163c7ce9e872521fd7b6b7b"; 
 
   
 
-      // API URL 
+      
 
       const base = 
 
@@ -41,7 +41,7 @@ window.addEventListener("load", () => {
 
   
 
-      // Calling the API 
+      
 
       fetch(base) 
 
