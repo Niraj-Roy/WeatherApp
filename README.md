@@ -5,7 +5,7 @@
 
 #  PREVIEW
 
-<img src="./IMG_20220107_222444.jpg">
+<img src="./Screenshot_2022-03-05-08-58-17-86.png">
 
 <h2>
 Q. How to Make your Own WeatherApp ? </h2>
